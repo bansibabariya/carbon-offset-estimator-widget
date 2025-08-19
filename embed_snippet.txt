@@ -1,0 +1,7 @@
+<script>
+  window.__CARBON_WIDGET_CONFIG_URL__ = 'http://127.0.0.1:8000/widget-config';
+  window.__CARBON_WIDGET_ESTIMATE_URL__ = 'http://127.0.0.1:8000/estimate';
+  window.__CARBON_WIDGET_OPTIN_URL__ = 'http://127.0.0.1:8000/optin';
+</script>
+<script src="http://127.0.0.1:8000/static/widget.js"></script>
+
